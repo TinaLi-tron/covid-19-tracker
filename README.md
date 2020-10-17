@@ -1,7 +1,5 @@
 # README
 
----
-
 This application tracks covid-19 cases worldwide.
 See the demo here: https://covid-19-tracker-17f0a.web.app/
 
